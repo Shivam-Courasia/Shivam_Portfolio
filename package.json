@@ -2,7 +2,6 @@
   "private": true,
   "name": "reactportfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Shivam-Courasia",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",

@@ -1,0 +1,47 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "I_kwDOMPrhf860SiYj",
+      "closed": false,
+      "title": "Swiggy API changed  , needs to scroll !",
+      "createdAt": "2025-04-28T12:20:40Z",
+      "url": "https://github.com/Nimish3012/Food-Ordering-System/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Food-Ordering-System",
+        "url": "https://github.com/Food-Ordering-System",
+        "owner": {
+          "login": "Shivam_chourasia",
+          "avatarUrl": "",
+          "url": "https://github.com/Shivam-Courasia"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOK1fr-s54ncoU",
+      "closed": false,
+      "title": "Password_Generator Video Demo",
+      "createdAt": "2023-12-04T11:11:57Z",
+      "url": "https://github.com/Shivam-Courasia",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Password_Generator_QT",
+        "url": "https://github.com/Password_Generator_QT",
+        "owner": {
+          "login": "Shivam_chourasia",
+          "avatarUrl": "",
+          "url": "https://github.com/Shivam-Courasia"
+        }
+      }
+    }
+  ],
+  "open": 2,
+  "totalCount": 2
+}

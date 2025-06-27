@@ -1,0 +1,29 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOOXqZxM6UKI1F",
+      "title": "Namaste js2",
+      "url": "https://github.com/LearnJS/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2025-04-28T12:21:53Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 142,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "LearnJS",
+        "url": "https://github.com/Shivam/LearnJS",
+        "owner": {
+          "avatarUrl": "",
+          "login": "Shivam_chourasia",
+          "url": "https://github.com/Shivam"
+        }
+      }
+    }
+  ],
+  "merged": 0,
+  "open": 1,
+  "totalCount": 1
+}

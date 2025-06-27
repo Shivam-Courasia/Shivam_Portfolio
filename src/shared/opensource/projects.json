@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOOjYRSg",
+      "name": "AI-Augmented-Notion",
+      "createdAt": "2025-05-02T12:48:21Z",
+      "url": "https://github.com/Shivam-Courasia/AI-Augmented-Notion",
+      "description": "AI-Augmented Notion – Personal Knowledge Management Tool > A smart, Notion-style note-taking system built with React, Vite, and Supabase. Features include a Tiptap rich-text editor, AI-suggested links, interactive knowledge graph, and smart tags. It also supports dark mode, slash commands, and semantic H1 titles. AI features are powered by Gemini API with real-time data syncing via Supabase.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOOkMdRg",
+      "name": "focusflow-ai-mastery",
+      "createdAt": "2025-05-04T09:52:46Z",
+      "url": "https://github.com/Shivam-Courasia/focusflow-ai-mastery",
+      "description": "FocusFlow AI Mastery > A modern productivity web app built with React, Vite, TypeScript, and Supabase, designed to help users master focus using AI. It features a customizable Pomodoro timer, smart website blocking, and an analytics dashboard to track focus patterns. The UI is crafted with Shadcn UI, offering a sleek, responsive experience with dark/light mode support and real-time session insights.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOMPrhfw",
+      "name": "the-decision-dice",
+      "createdAt": "2024-06-29T10:20:14Z",
+      "url": "https://github.com/Shivam-Courasia/the-decision-dice",
+      "description": "The Decision Dice – Gamified Group Decision-Maker > A fun, full-stack web app built with Vite, React, TypeScript, Tailwind CSS, and Shadcn UI, designed to help friend groups make decisions effortlessly. Users can create decision rooms, submit options, vote anonymously, and resolve ties with interactive tiebreakers like dice rolls, spinners, or coin flips. Features include real-time vote reveals, animated results, and a history of past decisions—all backed by secure authentication and Supabase integration.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOK1fr-g",
+      "name": "Google-drive-clone",
+      "createdAt": "2023-12-04T10:57:32Z",
+      "url": "https://github.com/Shivam-Courasia/Google-drive-clone",
+      "description": " Google Drive Clone – Cloud Storage Web App > A minimalist cloud storage solution built with React, Vite, and Tailwind CSS, inspired by Google Drive. Users can upload, preview, and manage files in a sleek, responsive interface. The project emphasizes clean UI, modular structure, and scalable front-end architecture—deployed live via Vercel for seamless access ",
+      "isFork": false,
+      "languages": []
+    }
+  ]
+}

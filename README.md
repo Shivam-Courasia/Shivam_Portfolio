@@ -4,9 +4,9 @@ A modern, responsive portfolio website to showcase your projects, skills, and ex
 
 ## 🚀 Live Demo
 
-Check out the live portfolio here: [View on Vercel](https://your-versal-link.vercel.app/)
+Check out the live portfolio here: https://shivam-portfolio-five-ivory.vercel.app/
 
-> Replace the above link with your actual Vercel deployment URL.
+
 
 ## ✨ Features
 
@@ -51,7 +51,7 @@ Check out the live portfolio here: [View on Vercel](https://your-versal-link.ver
 
 ## 📦 Deployment
 
-Deploy your portfolio easily on [Vercel](https://vercel.com/):
+Deploy your portfolio easily on [Vercel](https://vercel.com/):https://shivam-portfolio-five-ivory.vercel.app/
 1. Push your code to GitHub.
 2. Import your repository into Vercel.
 3. Configure build settings if needed (default: `npm run build`).
@@ -67,4 +67,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Made with ❤️ by [Your Name] 
+> Made with ❤️ by Shivam chourasia 
